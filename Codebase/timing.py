@@ -2,7 +2,7 @@ import configparser
 from datetime import datetime, timezone
 from typing import Optional
 
-
+# Just adding a comment so I can create of pull request as I follow along with the lessons
 class RecentStamps:
     """Stamps class.
     :param recent_stamps_file: path to file.
